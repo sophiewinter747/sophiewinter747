@@ -1,2 +1,4 @@
-<?php echo 'test'; ?>
+
+<?php echo 'Startseite'; ?>
 <?php echo 'Erster Eintrag'; ?>
+
